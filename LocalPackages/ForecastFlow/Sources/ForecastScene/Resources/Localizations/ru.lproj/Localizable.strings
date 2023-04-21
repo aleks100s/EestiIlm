@@ -1,0 +1,10 @@
+"label.night" = "Ночь";
+"label.day" = "День";
+"section.generalConditions" = "Погода";
+"section.seaConditions" = "Погода на море";
+"section.peipsiConditions" = "Погода на Peipsi";
+"section.places" = "Температура";
+"section.winds" = "Ветер";
+"title.forecast" = "Прогноз погоды";
+"button.toggleDayTime" = "День/Ночь";
+"button.selectDate" = "Выбери дату";

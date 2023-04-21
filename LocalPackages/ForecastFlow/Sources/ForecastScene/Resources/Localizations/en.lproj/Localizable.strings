@@ -1,0 +1,10 @@
+"label.night" = "Night";
+"label.day" = "Day";
+"section.generalConditions" = "General Conditions";
+"section.seaConditions" = "Sea Conditions";
+"section.peipsiConditions" = "Peipsi Conditions";
+"section.places" = "Places";
+"section.winds" = "Winds";
+"title.forecast" = "Forecast";
+"button.toggleDayTime" = "Day/Night";
+"button.selectDate" = "Select Date";
